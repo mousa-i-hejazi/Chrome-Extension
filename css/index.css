@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  min-width: 400px;
+}
+input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #147201b2;
+  margin-bottom: 10px;
+}
+button {
+  color: #fff;
+  background-color: #147201b2;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 2px;
+  font-weight: bold;
+}
+#tab-btn {
+  background-color: lawngreen;
+}
+#delete-btn {
+  background-color: tomato;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 20px;
+}
+li {
+  margin-top: 5px;
+}
+a {
+  color: #147201b2;
+}
